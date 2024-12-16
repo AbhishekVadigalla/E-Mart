@@ -6,7 +6,7 @@ const AC = () => {
   return (
     <div>
       <div style={{backgroundColor:'lightblue',padding:'0.3rem'}}>
-        <h3>Furniture</h3>
+        <h3>Furnitures</h3>
       </div>
       <div className='AC'>
         {
