@@ -1,0 +1,9 @@
+.computers{
+  display: flex;
+}
+.proImage{
+  width: 80%;
+  height: 90%;
+  margin-left: 10%;
+  margin-top: 5%;
+}

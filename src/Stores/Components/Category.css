@@ -1,0 +1,10 @@
+.category{
+  background-color: gray;
+  display: flex;
+  justify-content:space-evenly;
+  padding: 1%;
+  color: whitesmoke;
+  cursor: pointer;
+  margin-top: 1%;
+  margin-top: 80px;
+}
